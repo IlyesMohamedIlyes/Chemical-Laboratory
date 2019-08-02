@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 98df459f4999b1f408a5b61d563acd0c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: komod_Cube.000
+    100004: komod_Cube.003
+    100006: polka1.001_Cube.000
+    100008: polka1.001_Cube.001
+    100010: polka1.001_Cube.002
+    100012: polka1.001_Cube.003
+    100014: polka1.001_Cube.004
+    100016: polka1.001_Cube.005
+    100018: polka1.002_Cube.000
+    100020: polka1.002_Cube.001
+    100022: polka1.002_Cube.002
+    100024: polka1.002_Cube.003
+    100026: polka1.002_Cube.004
+    100028: polka1.002_Cube.005
+    100030: polka1.003_Cube.000
+    100032: polka1.003_Cube.001
+    100034: polka1.003_Cube.002
+    100036: polka1.003_Cube.003
+    100038: polka1.003_Cube.004
+    100040: polka1.003_Cube.005
+    100042: polka1_Cube.000
+    100044: polka1_Cube.001
+    100046: polka1_Cube.002
+    100048: polka1_Cube.003
+    100050: polka1_Cube.004
+    100052: polka1_Cube.005
+    400000: //RootNode
+    400002: komod_Cube.000
+    400004: komod_Cube.003
+    400006: polka1.001_Cube.000
+    400008: polka1.001_Cube.001
+    400010: polka1.001_Cube.002
+    400012: polka1.001_Cube.003
+    400014: polka1.001_Cube.004
+    400016: polka1.001_Cube.005
+    400018: polka1.002_Cube.000
+    400020: polka1.002_Cube.001
+    400022: polka1.002_Cube.002
+    400024: polka1.002_Cube.003
+    400026: polka1.002_Cube.004
+    400028: polka1.002_Cube.005
+    400030: polka1.003_Cube.000
+    400032: polka1.003_Cube.001
+    400034: polka1.003_Cube.002
+    400036: polka1.003_Cube.003
+    400038: polka1.003_Cube.004
+    400040: polka1.003_Cube.005
+    400042: polka1_Cube.000
+    400044: polka1_Cube.001
+    400046: polka1_Cube.002
+    400048: polka1_Cube.003
+    400050: polka1_Cube.004
+    400052: polka1_Cube.005
+    2100000: komod_poloski
+    2100002: ruchki
+    2100004: komod_narujn
+    2100006: niz
+    2100008: komod_vnutr
+    2100010: napravlyauch
+    2300000: komod_Cube.000
+    2300002: komod_Cube.003
+    2300004: polka1.001_Cube.000
+    2300006: polka1.001_Cube.001
+    2300008: polka1.001_Cube.002
+    2300010: polka1.001_Cube.003
+    2300012: polka1.001_Cube.004
+    2300014: polka1.001_Cube.005
+    2300016: polka1.002_Cube.000
+    2300018: polka1.002_Cube.001
+    2300020: polka1.002_Cube.002
+    2300022: polka1.002_Cube.003
+    2300024: polka1.002_Cube.004
+    2300026: polka1.002_Cube.005
+    2300028: polka1.003_Cube.000
+    2300030: polka1.003_Cube.001
+    2300032: polka1.003_Cube.002
+    2300034: polka1.003_Cube.003
+    2300036: polka1.003_Cube.004
+    2300038: polka1.003_Cube.005
+    2300040: polka1_Cube.000
+    2300042: polka1_Cube.001
+    2300044: polka1_Cube.002
+    2300046: polka1_Cube.003
+    2300048: polka1_Cube.004
+    2300050: polka1_Cube.005
+    3300000: komod_Cube.000
+    3300002: komod_Cube.003
+    3300004: polka1.001_Cube.000
+    3300006: polka1.001_Cube.001
+    3300008: polka1.001_Cube.002
+    3300010: polka1.001_Cube.003
+    3300012: polka1.001_Cube.004
+    3300014: polka1.001_Cube.005
+    3300016: polka1.002_Cube.000
+    3300018: polka1.002_Cube.001
+    3300020: polka1.002_Cube.002
+    3300022: polka1.002_Cube.003
+    3300024: polka1.002_Cube.004
+    3300026: polka1.002_Cube.005
+    3300028: polka1.003_Cube.000
+    3300030: polka1.003_Cube.001
+    3300032: polka1.003_Cube.002
+    3300034: polka1.003_Cube.003
+    3300036: polka1.003_Cube.004
+    3300038: polka1.003_Cube.005
+    3300040: polka1_Cube.000
+    3300042: polka1_Cube.001
+    3300044: polka1_Cube.002
+    3300046: polka1_Cube.003
+    3300048: polka1_Cube.004
+    3300050: polka1_Cube.005
+    4300000: polka1.003_Cube.005
+    4300002: polka1.003_Cube.003
+    4300004: polka1.003_Cube.002
+    4300006: polka1.003_Cube.001
+    4300008: polka1.003_Cube.000
+    4300010: polka1_Cube.005
+    4300012: polka1_Cube.004
+    4300014: polka1_Cube.003
+    4300016: polka1_Cube.001
+    4300018: polka1_Cube.000
+    4300020: polka1.002_Cube.005
+    4300022: polka1.002_Cube.004
+    4300024: polka1.002_Cube.003
+    4300026: polka1.002_Cube.002
+    4300028: polka1.002_Cube.000
+    4300030: polka1.001_Cube.005
+    4300032: polka1.001_Cube.004
+    4300034: polka1.001_Cube.003
+    4300036: polka1.001_Cube.002
+    4300038: polka1.001_Cube.001
+    4300040: komod_Cube.000
+    4300042: polka1.003_Cube.004
+    4300044: komod_Cube.003
+    4300046: polka1.002_Cube.001
+    4300048: polka1_Cube.002
+    4300050: polka1.001_Cube.000
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

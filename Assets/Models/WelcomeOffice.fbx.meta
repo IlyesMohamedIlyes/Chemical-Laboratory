@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 319ec7b2ae9f05f49991761bb4125cd6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: desk:Board
+    100002: desk:Board.001
+    100004: desk:Box
+    100006: desk:Box.001
+    100008: desk:Chair
+    100010: desk:Cube
+    100012: desk:Cube.016
+    100014: desk:CupBoard
+    100016: desk:CupBoard.001
+    100018: desk:Drawer
+    100020: desk:Drawer.001
+    100022: desk:Drawer.002
+    100024: desk:Drawer.003
+    100026: desk:Glass1
+    100028: desk:Knob
+    100030: desk:Knob.001
+    100032: desk:Knob.002
+    100034: desk:Knob.003
+    100036: desk:Pipe
+    100038: desk:Pipe.001
+    100040: desk:Pipe.002
+    100042: desk:Table
+    100044: //RootNode
+    400000: desk:Board
+    400002: desk:Board.001
+    400004: desk:Box
+    400006: desk:Box.001
+    400008: desk:Chair
+    400010: desk:Cube
+    400012: desk:Cube.016
+    400014: desk:CupBoard
+    400016: desk:CupBoard.001
+    400018: desk:Drawer
+    400020: desk:Drawer.001
+    400022: desk:Drawer.002
+    400024: desk:Drawer.003
+    400026: desk:Glass1
+    400028: desk:Knob
+    400030: desk:Knob.001
+    400032: desk:Knob.002
+    400034: desk:Knob.003
+    400036: desk:Pipe
+    400038: desk:Pipe.001
+    400040: desk:Pipe.002
+    400042: desk:Table
+    400044: //RootNode
+    2100000: desk_Wood
+    2100002: desk_aiStandardSurface9
+    2100004: desk_aiStandardSurface10
+    2100006: desk_aiStandardSurface15
+    2100008: desk_aiStandardSurface16
+    2100010: desk_Black
+    2100012: desk_aiStandardSurface7
+    2100014: desk_aiStandardSurface8
+    2100016: desk_aiStandardSurface11
+    2100018: desk_aiStandardSurface12
+    2100020: desk_aiStandardSurface13
+    2100022: desk_aiStandardSurface14
+    2100024: desk_aiStandardSurface5
+    2100026: desk_aiStandardSurface6
+    2100028: desk_aiStandardSurface4
+    2100030: desk_aiStandardSurface3
+    2100032: desk_aiStandardSurface1
+    2100034: desk_aiStandardSurface2
+    2100036: desk_Leather
+    2100038: desk_Chrome
+    2300000: desk:Board
+    2300002: desk:Board.001
+    2300004: desk:Box
+    2300006: desk:Box.001
+    2300008: desk:Chair
+    2300010: desk:Cube
+    2300012: desk:Cube.016
+    2300014: desk:CupBoard
+    2300016: desk:CupBoard.001
+    2300018: desk:Drawer
+    2300020: desk:Drawer.001
+    2300022: desk:Drawer.002
+    2300024: desk:Drawer.003
+    2300026: desk:Glass1
+    2300028: desk:Knob
+    2300030: desk:Knob.001
+    2300032: desk:Knob.002
+    2300034: desk:Knob.003
+    2300036: desk:Pipe
+    2300038: desk:Pipe.001
+    2300040: desk:Pipe.002
+    2300042: desk:Table
+    3300000: desk:Board
+    3300002: desk:Board.001
+    3300004: desk:Box
+    3300006: desk:Box.001
+    3300008: desk:Chair
+    3300010: desk:Cube
+    3300012: desk:Cube.016
+    3300014: desk:CupBoard
+    3300016: desk:CupBoard.001
+    3300018: desk:Drawer
+    3300020: desk:Drawer.001
+    3300022: desk:Drawer.002
+    3300024: desk:Drawer.003
+    3300026: desk:Glass1
+    3300028: desk:Knob
+    3300030: desk:Knob.001
+    3300032: desk:Knob.002
+    3300034: desk:Knob.003
+    3300036: desk:Pipe
+    3300038: desk:Pipe.001
+    3300040: desk:Pipe.002
+    3300042: desk:Table
+    4300000: desk:Table
+    4300002: desk:CupBoard
+    4300004: desk:Cube.016
+    4300006: desk:CupBoard.001
+    4300008: desk:Cube
+    4300010: desk:Board.001
+    4300012: desk:Box
+    4300014: desk:Drawer.001
+    4300016: desk:Knob.001
+    4300018: desk:Drawer.002
+    4300020: desk:Knob.002
+    4300022: desk:Drawer.003
+    4300024: desk:Knob.003
+    4300026: desk:Drawer
+    4300028: desk:Knob
+    4300030: desk:Pipe.002
+    4300032: desk:Pipe.001
+    4300034: desk:Glass1
+    4300036: desk:Pipe
+    4300038: desk:Box.001
+    4300040: desk:Board
+    4300042: desk:Chair
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
